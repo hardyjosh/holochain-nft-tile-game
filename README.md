@@ -57,3 +57,7 @@ This repository is using these tools:
 - [@holochain/tryorama](https://www.npmjs.com/package/@holochain/tryorama): test framework.
 - [@holochain/client](https://www.npmjs.com/package/@holochain/client): client library to connect to Holochain from the UI.
 - [@holochain-playground/cli](https://www.npmjs.com/package/@holochain-playground/cli): introspection tooling to understand what's going on in the Holochain nodes.
+
+## License
+
+This project is licensed under the [Cryptographic Autonomy License 1.0](LICENSE).
